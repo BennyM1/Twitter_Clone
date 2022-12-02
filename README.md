@@ -3,6 +3,8 @@ Let’s make simple Twitter. Users can post tweets and see everyone’s them. To
 
 # Screenshot:
 
+![twitter_clone](https://user-images.githubusercontent.com/114458066/205206756-cbfe0835-210d-4f20-83c2-5549da482ba4.PNG)
+
 # Technologies Used:
 * Html
 * Css
